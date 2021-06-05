@@ -1,5 +1,5 @@
 {
-  "name": "cryptocurrencies data",
+  "name": "cryptocurrencies-data",
   "version": "1.0.0",
   "description": "Simple cryptocurrencies json data",
   "main": "server.js",
